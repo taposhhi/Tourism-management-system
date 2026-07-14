@@ -2,7 +2,6 @@
 A MySQL database for managing tourist spots, hotels, restaurants, tour guides, and local culture information.
 
 
-# Tourist Spot Management System - Database
 
 This repository contains the MySQL/MariaDB database dump for the **Tourist Spot Management System**, exported via phpMyAdmin.
 
